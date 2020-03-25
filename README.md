@@ -17,7 +17,7 @@
 
 ## Run
 
-dotnet run settings.json success.txt
+```dotnet run settings.json success.txt
 dotnet run settings.json nowhere.txt
 dotnet run settings.json hitmine.txt
 dotnet run settings.json outofbonds.txt
